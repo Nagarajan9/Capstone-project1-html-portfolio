@@ -1,0 +1,7 @@
+.background-gradient{
+	background: rgb(17,16,134);
+background: linear-gradient(90deg, rgba(17,16,134,1) 0%, rgba(9,9,121,1) 0%, rgba(138,227,247,1) 0%, rgba(71,88,238,1) 0%, rgba(64,74,237,1) 100%, rgba(18,18,184,1) 100%, rgba(97,225,255,1) 100%, rgba(0,212,255,1) 100%, rgba(61,52,204,1) 100%);
+}
+.rounded{
+	border-radius:50%;
+}
